@@ -1,0 +1,158 @@
+body {
+  background: #161822;
+  color: #d0d0d0;
+  margin-top: 70px !important;
+}
+
+.border {
+  border: 1px solid #fff;
+}
+
+/* nav */
+.mynav {
+  background: #161822 !important;
+}
+
+.navbrand {
+  font-size: 25px !important;
+  color: #d0d0d0 !important;
+}
+
+.navlink {
+  font-size: 20px !important;
+  padding-right: 30px;
+  color: #d0d0d0 !important;
+  text-align: center;
+}
+
+/* end of nav */
+
+/* home */
+.home {
+  margin-top: 100px;
+  text-align: center;
+  height: 800px;
+}
+
+.home h1 {
+  font-size: 50px;
+}
+
+.home h5 {
+  font-size: 25px;
+}
+
+.home img {
+  margin-top: 70px;
+  width: 700px;
+}
+
+.center {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.chevron {
+  position: absolute;
+  width: 28px;
+  height: 8px;
+  opacity: 0;
+  transform: scale3d(0.5, 0.5, 0.5);
+  animation: move 3s ease-out infinite;
+}
+
+.chevron:first-child {
+  animation: move 3s ease-out 1s infinite;
+}
+
+.chevron:nth-child(2) {
+  animation: move 3s ease-out 2s infinite;
+}
+
+.chevron:before,
+.chevron:after {
+  content: " ";
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 51%;
+  background: #d0d0d0;
+}
+
+.chevron:before {
+  left: 0;
+  transform: skew(0deg, 30deg);
+}
+
+.chevron:after {
+  right: 0;
+  width: 50%;
+  transform: skew(0deg, -30deg);
+}
+
+@keyframes move {
+  25% {
+    opacity: 1;
+  }
+  33% {
+    opacity: 1;
+    transform: translateY(30px);
+  }
+  67% {
+    opacity: 1;
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(55px) scale3d(0.5, 0.5, 0.5);
+  }
+}
+
+@keyframes pulse {
+  to {
+    opacity: 1;
+  }
+}
+
+.round {
+  position: relative;
+  z-index: -99;
+  margin-top: -50%;
+  margin-left: 80%;
+  width: 300px;
+  height: 300px;
+  background: rgba(74, 97, 221, 0.7);
+  filter: blur(244.69px);
+}
+
+/* end of home */
+
+/* projects */
+
+.projects-title {
+  text-align: center;
+  border-bottom: 2px solid rgba(74, 97, 221, 0.7);
+}
+
+.project-text {
+  text-align: center;
+  margin-top: 25%;
+}
+
+.project-content {
+  margin-top: 70px;
+}
+
+/* end of projects */
+
+/* Skills */
+.skills {
+  margin-top: 70px;
+}
+/* end of skills */
+
+/* footer */
+
+/* end of footer */
