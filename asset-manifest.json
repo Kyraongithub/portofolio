@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portofolio2021/static/css/main.87283099.chunk.css",
+    "main.js": "/portofolio2021/static/js/main.72abd5da.chunk.js",
+    "main.js.map": "/portofolio2021/static/js/main.72abd5da.chunk.js.map",
+    "runtime-main.js": "/portofolio2021/static/js/runtime-main.d8ecf3e2.js",
+    "runtime-main.js.map": "/portofolio2021/static/js/runtime-main.d8ecf3e2.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/portofolio2021/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.85d19524.chunk.js": "/portofolio2021/static/js/2.85d19524.chunk.js",
+    "static/js/2.85d19524.chunk.js.map": "/portofolio2021/static/js/2.85d19524.chunk.js.map",
+    "static/js/3.8c2bb05a.chunk.js": "/portofolio2021/static/js/3.8c2bb05a.chunk.js",
+    "static/js/3.8c2bb05a.chunk.js.map": "/portofolio2021/static/js/3.8c2bb05a.chunk.js.map",
+    "index.html": "/portofolio2021/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/portofolio2021/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.87283099.chunk.css.map": "/portofolio2021/static/css/main.87283099.chunk.css.map",
+    "static/js/2.85d19524.chunk.js.LICENSE.txt": "/portofolio2021/static/js/2.85d19524.chunk.js.LICENSE.txt",
+    "static/media/github.5700368c.png": "/portofolio2021/static/media/github.5700368c.png",
+    "static/media/hero.9a5ec5f5.png": "/portofolio2021/static/media/hero.9a5ec5f5.png",
+    "static/media/style.css": "/portofolio2021/static/media/illustration-section-01.3caff9af.svg",
+    "static/media/linkedin.a1443ab6.png": "/portofolio2021/static/media/linkedin.a1443ab6.png",
+    "static/media/logo.cfe64229.png": "/portofolio2021/static/media/logo.cfe64229.png",
+    "static/media/projects1.f6c9de82.png": "/portofolio2021/static/media/projects1.f6c9de82.png",
+    "static/media/projects2.af944177.png": "/portofolio2021/static/media/projects2.af944177.png",
+    "static/media/projects3.1b79b1fc.png": "/portofolio2021/static/media/projects3.1b79b1fc.png",
+    "static/media/projects4.d2aab62c.png": "/portofolio2021/static/media/projects4.d2aab62c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8ecf3e2.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.85d19524.chunk.js",
+    "static/css/main.87283099.chunk.css",
+    "static/js/main.72abd5da.chunk.js"
+  ]
+}
